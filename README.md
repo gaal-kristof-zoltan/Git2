@@ -30,3 +30,11 @@ print("Hello")
 Kép: ![Alternatív szöveg](kep_url)
 
 Idézet: > Ez egy idézet.
+
+Táblázat Markdownban:
+| Név   | Kor | Város |
+|-------|-----|-------|
+| Anna  | 23  | Pécs  |
+| Béla  | 31  | Szeged|
+| Csaba | 27  | Győr  |
+
