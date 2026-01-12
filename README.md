@@ -1,9 +1,9 @@
 # A legfontosabb Markdown elemek
 
 ## Címsorok:
-# Cím
-## Alcím
-### Al-alcím
+#Cím
+##Alcím
+###Al-alcím
 
 ## Stílusok:
 Félkövér szöveg:**félkövér**
@@ -26,4 +26,3 @@ Kódblokk
 ```python
 print("Hello")
 ```
-
