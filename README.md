@@ -22,7 +22,11 @@ Link:[Szöveg](https://pelda.hu)
 
 Kód (soron belüli):`kód`
 
-Kódblokk
+Kódblokk:
 ```python
 print("Hello")
 ```
+
+Kép: ![Alternatív szöveg](kep_url)
+
+Idézet: > Ez egy idézet.
