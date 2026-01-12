@@ -8,7 +8,7 @@
 ## Stílusok:
 Félkövér szöveg:**félkövér**
 
-Dőlt szöveg:*dőlt*
+Dőlt szöveg: *dőlt*
 
 Felsorolás (lista):
 - elem
